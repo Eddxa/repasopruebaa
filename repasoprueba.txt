@@ -1,0 +1,24 @@
+IDENTIFICACION DE LA PRUEBA
+Identificador de la prueba:
+Descripción de la prueba:
+Requerimiento asociado:
+Actores:
+Pre-condición:
+ACTIVIDADES
+Evento:
+Respuesta del sistema:
+Excepciones:
+Post Condiciones:
+
+
+Heurísticas:
+1.- Visibilidad del sistema.
+2.- Coincidencia entre el sistema y el mundo real.
+3.- Control y libertad de usuario.
+4.- Consistencias y estándares.
+5.- Prevención de errores.
+6.- Minimizar las carga de memoria.
+7.- Eficiencia de uso.
+8.- Diseño estético y minimalista.
+9.- Ayuda al usuario para reconocer, diagnosticar y recuperarse de errores.
+10.- Ayuda y documentación
